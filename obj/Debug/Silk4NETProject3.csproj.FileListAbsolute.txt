@@ -1,0 +1,8 @@
+C:\Users\German\source\repos\Silk4NETProject3\bin\Debug\Silk4NETProject3.dll
+C:\Users\German\source\repos\Silk4NETProject3\bin\Debug\Silk4NETProject3.pdb
+C:\Users\German\source\repos\Silk4NETProject3\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\German\source\repos\Silk4NETProject3\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.csproj.CopyComplete
+C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.dll
+C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.pdb

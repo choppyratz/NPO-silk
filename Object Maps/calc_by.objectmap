@@ -1,0 +1,31 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="calc_by" locator="//BrowserApplication" urlPattern="*calc.by*">
+    <ObjectMapEntry id="BrowserWindow" locator="//BrowserWindow">
+      <ObjectMapEntry id=")" locator="//A[@textContents=&apos;)&apos;]"/>
+      <ObjectMapEntry id="+" locator="//A[@textContents=&apos;+&apos;]"/>
+      <ObjectMapEntry id="3" locator="//SPAN[@textContents=&apos;3&apos;]"/>
+      <ObjectMapEntry id="btn_0" locator="//A[@id=&apos;btn_0&apos;]"/>
+      <ObjectMapEntry id="btn_1" locator="//A[@id=&apos;btn_1&apos;]"/>
+      <ObjectMapEntry id="btn_2" locator="//A[@id=&apos;btn_2&apos;]"/>
+      <ObjectMapEntry id="btn_3" locator="//A[@id=&apos;btn_3&apos;]"/>
+      <ObjectMapEntry id="btn_5" locator="//A[@id=&apos;btn_5&apos;]"/>
+      <ObjectMapEntry id="btn_6" locator="//A[@id=&apos;btn_6&apos;]"/>
+      <ObjectMapEntry id="btn_8" locator="//A[@id=&apos;btn_8&apos;]"/>
+      <ObjectMapEntry id="btn_enter" locator="//A[@id=&apos;btn_enter&apos;]"/>
+      <ObjectMapEntry id="btn_esc" locator="//A[@id=&apos;btn_esc&apos;]"/>
+      <ObjectMapEntry id="btn_minus" locator="//A[@id=&apos;btn_minus&apos;]"/>
+      <ObjectMapEntry id="btn_mult" locator="//A[@id=&apos;btn_mult&apos;]"/>
+      <ObjectMapEntry id="btn_plus" locator="//A[@id=&apos;btn_plus&apos;]"/>
+      <ObjectMapEntry id="calc_display_input" locator="//INPUT[@id=&apos;calc_display_input&apos;]"/>
+      <ObjectMapEntry id="log" locator="//A[@textContents=&apos;log&apos;]"/>
+      <ObjectMapEntry id="mod" locator="//A[@textContents=&apos;mod&apos;]"/>
+      <ObjectMapEntry id="n!" locator="//A[@textContents=&apos;n!&apos;]"/>
+      <ObjectMapEntry id="sin" locator="//A[@textContents=&apos;sin&apos;]"/>
+      <ObjectMapEntry id="text_btn4" locator="//SPAN[@id=&apos;text_btn4&apos;]"/>
+      <ObjectMapEntry id="trad" locator="//INPUT[@id=&apos;trad&apos;]"/>
+      <ObjectMapEntry id="x" locator="//A[@textContents=&apos;x&apos;]"/>
+      <ObjectMapEntry id="x2" locator="//A[@textContents=&apos;x&apos;][2]"/>
+      <ObjectMapEntry id="π" locator="//A[@textContents=&apos;π&apos;]"/>
+    </ObjectMapEntry>
+  </ObjectMapEntry>
+</ObjectMap>

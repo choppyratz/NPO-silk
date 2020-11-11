@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recorderProject version="20.5">
+  <applicationConfiguration>
+    <browserType>Edge</browserType>
+    <baseStateInfo>
+      <locator>//BrowserApplication</locator>
+      <url>https://calc.by/math-calculators/scientific-calculator.html</url>
+    </baseStateInfo>
+  </applicationConfiguration>
+  <agentOptions/>
+</recorderProject>
