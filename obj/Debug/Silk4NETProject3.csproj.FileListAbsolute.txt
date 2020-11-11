@@ -6,3 +6,4 @@ C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.csproj.
 C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.csproj.CopyComplete
 C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.dll
 C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.pdb
+C:\Users\German\source\repos\Silk4NETProject3\obj\Debug\Silk4NETProject3.csprojAssemblyReference.cache

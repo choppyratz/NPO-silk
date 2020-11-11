@@ -11,6 +11,7 @@
       <ObjectMapEntry id="btn_5" locator="//A[@id=&apos;btn_5&apos;]"/>
       <ObjectMapEntry id="btn_6" locator="//A[@id=&apos;btn_6&apos;]"/>
       <ObjectMapEntry id="btn_8" locator="//A[@id=&apos;btn_8&apos;]"/>
+      <ObjectMapEntry id="btn_9" locator="//A[@id=&apos;btn_9&apos;]"/>
       <ObjectMapEntry id="btn_enter" locator="//A[@id=&apos;btn_enter&apos;]"/>
       <ObjectMapEntry id="btn_esc" locator="//A[@id=&apos;btn_esc&apos;]"/>
       <ObjectMapEntry id="btn_minus" locator="//A[@id=&apos;btn_minus&apos;]"/>
